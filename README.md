@@ -1,2 +1,4 @@
-# Angular-Spring-CRUD
-CRUD Műveletek egy backend és frontend framework segítségével.
+Specifikációk:
+1. FullStack kivitelezés, 3 framework van működésben, 1-Angular, 2-Bootstrap, 3-Spring Boot
+2. Alap CRUD Műveletek egy tanuló táblán: Szerkesztés, hozzáadás, törlés.
+3. Bemutató videó müködés közben: https://youtu.be/5s0Iw3Xmu-k
